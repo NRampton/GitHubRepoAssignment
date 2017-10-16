@@ -7,3 +7,7 @@ git add .
 git commit -m "Added readme.md."
 git remote add origin https://github.com/NRampton/GitHubRepoAssignment.git
 git push -u origin master
+emacs GitHubRepoAssignment.txt
+git add GitHubRepoAssignment.txt
+git commit -m "Adding txt summary."
+git push -u origin master
